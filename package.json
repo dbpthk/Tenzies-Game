@@ -10,6 +10,7 @@
   "dependencies": {
     "nanoid": "^5.1.5",
     "react": "19.0.0-rc-8b08e99e-20240713",
+    "react-confetti": "^6.4.0",
     "react-dom": "19.0.0-rc-8b08e99e-20240713",
     "vite": "latest"
   },
